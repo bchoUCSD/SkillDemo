@@ -5,6 +5,6 @@ public class skillDemoTester {
     @Test
     public void getAtTest()
     {
-        assertEquals(1,skillDemo.getAt(1));
+        assertEquals(2,skillDemo.getAt(1));
     }
 }   
